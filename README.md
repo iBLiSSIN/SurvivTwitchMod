@@ -4,9 +4,6 @@
 
 This is a Surviv.io cheat loaded as a Chrome extension.  It was requested by Katoz #0028 and is in beta mode. It will be updated shortly. I created this in about 4 days so don't be mad if it doesn't work well. 
 
-## AIMBOT ONLY AIMS. DOES NOT SHOOT FOR YOU.
-
-
 ### 💪 Features
 
 * Displays enemy lines
