@@ -24,7 +24,7 @@ This is a Surviv.io cheat loaded as a Chrome extension.  It was requested by Kat
 2. Extract the ZIP file you just downloaded. 
 3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
 4. Click "Load Unpacked" and select the folder that you extracted (called `twitch-cheat-master`)
-5. Open [surviv.io](http://surviv.io).
+5. Open [surviv.io twitch](https://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/c79geyxwmp1zpas3qxbddzrtytffta/1.0.2/ce940530af57d2615ac39c266fe9679d/index_twitch.html).
 
 ## 🤔 FAQ
 > **What do I do if the cheat stops working?**
